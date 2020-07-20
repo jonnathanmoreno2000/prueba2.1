@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*cuerpo de la pagina*/
+body{
+    background: #ff0000;
+}
+
+#contenedor{
+    background: #6200ff;
+
+
+}
+
+header{
+    background: #6200ff;
+}
+
+nav{
+    background: #6200ff;
+}
+section{
+    background: #ff0000;
+}
+aside{
+    background: #ff0000;
+}
+
+/*pie de pagina*/
+footer{
+    background: #ff0000;
+}
